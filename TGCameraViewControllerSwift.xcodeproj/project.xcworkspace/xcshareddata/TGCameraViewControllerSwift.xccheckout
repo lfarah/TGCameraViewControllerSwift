@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>90DC2535-4CD1-4B19-A2FE-D8A08EE9ED5A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TGCameraViewControllerSwift</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>97009272AE41E4A9292097A7C09A0C9252DE37F5</key>
+		<string>https://github.com/lfarah/TGCameraViewControllerSwift.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TGCameraViewControllerSwift.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>97009272AE41E4A9292097A7C09A0C9252DE37F5</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/lfarah/TGCameraViewControllerSwift.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>97009272AE41E4A9292097A7C09A0C9252DE37F5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>97009272AE41E4A9292097A7C09A0C9252DE37F5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TGCameraViewControllerSwift</string>
+		</dict>
+	</array>
+</dict>
+</plist>
