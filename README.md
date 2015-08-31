@@ -1,2 +1,2 @@
 # TGCameraViewControllerSwift
-TGCameraViewController example made entirely on Swift
+[TGCameraViewController](https://github.com/tdginternet/TGCameraViewController) example made entirely on Swift
